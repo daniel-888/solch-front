@@ -1,0 +1,40 @@
+{
+    "dev": {
+        "punky": {
+            "PROGRAM_ID": "9kzUKvQR5uPGZnp8GCbmsp4DZCEhg37kQQ3VPrMyk4oS",
+            "VAULT_PDA": "8MmPNFAVHrUJNYKZDSuHowaXmt73nPVdsR7ZFAhYFvoD",
+            "REWARD_TOKEN_ACCOUNT": "AXsqa6rc4L39fnkFnJKz3VuEaP2RFvdRjFtkQT6jRBoW",
+            "REWARD_TOKEN_MINT": "GnBw4qZs3maF2d5ziQmGzquQFnGV33NUcEujTQ3CbzP3",
+            "INTERVAL": 15000,
+            "TOTAL_NFT_SUPPLY": 3333,
+            "DAYTIME": 60,
+            "CLUSTER_API": "https://api.devnet.solana.com",
+            "CLUSTER": "devnet",
+            "NFT_CREATOR_ADDRESS": "GtyAfQyhh2jcC3vJWEkiPzzZCK6WG3rUjgxdsdAwCx8i",
+            "NFT_CANDYMACHINE": "A8dFCQRvUjrw8utFih6feW61xoBahd1JeXDGSSCM273s",
+            "COLLECTION_NAME": "TheElementies",
+            "SPL_TOKEN_PER_DAY": 8,
+            "LIFETIME": 480,
+            "MINIUM_TOKEN_FOR_STAKING": 0
+        }
+    },
+    "main": {
+        "punky": {
+            "PROGRAM_ID": "GeqRpp3R7nHm33UQHpgN3FNUjTZ2WhVeqi38FEpJ92Z8",
+            "VAULT_PDA": "4RqnAXnMc7YVniG9TZMyhejjk3h6CRWVdEn9KS1f2u7e",
+            "REWARD_TOKEN_ACCOUNT": "6wPHFreMtMDoK7joCDMnd5a1Qvyi28cNskLQ3LiRwB14",
+            "REWARD_TOKEN_MINT": "7vKX5rx57VPE1ozJesFzojdPjGZ3M89894PT27i6seUF",
+            "INTERVAL": 15000,
+            "TOTAL_NFT_SUPPLY": 3333,
+            "DAYTIME": 86400,
+            "CLUSTER_API": "https://fragrant-billowing-haze.solana-mainnet.quiknode.pro/",
+            "CLUSTER": "mainnet",
+            "NFT_CREATOR_ADDRESS": "GtyAfQyhh2jcC3vJWEkiPzzZCK6WG3rUjgxdsdAwCx8i",
+            "NFT_CANDYMACHINE": "sr18fci27dNSKYJDyjCh2BhByB3cRbVv6iQHKkF5d2G",
+            "COLLECTION_NAME": "PunkyApesClub",
+            "SPL_TOKEN_PER_DAY": 8,
+            "LIFETIME": 691200,
+            "MINIUM_TOKEN_FOR_STAKING": 100
+        }
+    }
+}

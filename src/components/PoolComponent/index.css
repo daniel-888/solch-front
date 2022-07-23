@@ -1,0 +1,32 @@
+.stats-container {
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+.margin-center {
+    display: flex;
+    justify-content: center;
+}
+
+.mymodal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #c01b1b;
+    background: #fff;
+    overflow: auto;
+    outline: none;
+    padding: 0px;
+    border-radius: 20px;
+}
+
+.myoverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.75);
+    border-radius: 20px;
+}
